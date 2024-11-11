@@ -1,0 +1,209 @@
+.banner-div{
+    float: left;
+    width: 100%;
+}
+
+.banner-div img{
+    float: left;
+    width: 100%;
+}
+
+.main{
+    float: left;
+    width: 100%;
+}
+
+.main-left{
+    float: left;
+    width: 20%;
+    margin: 8% 0% 0% 15%;
+}
+
+.main-left img{
+    float: left;
+    width: 100%;
+}
+
+.main-right{
+    float: right;
+    width: 50%;
+    font-family: "Rubik Doodle Shadow", serif;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+}
+
+.main-right a{
+    text-decoration: none;
+    color: black;
+}
+
+.main-right img{
+    float: left;
+    width: 90%;
+}
+
+.gallery-div{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin: 3% 0% 5% 0%;
+    font-family: "Rubik Doodle Shadow", serif;
+    font-weight: 400;
+    font-size: 45px;
+}
+
+.gallery-div img{
+    float: left;
+    width: 20%;
+    height: 200px;
+}
+
+.volunteer-div{
+    float: left;
+    width: 100%;
+    margin: 5% 0% 3% 0%;
+}
+
+.volunteer-left{
+    float: left;
+    width: 25%;
+    margin: 0% 0% 0% 20%;
+}
+
+.volunteer-left img{
+    float: left;
+    width: 100%;
+    height: 550px;
+}
+
+.volunteer-right{
+    float: left;
+    width: 30%;
+    margin: 0% 0% 0% 5%;
+}
+
+.volunteer-right h1{
+    text-transform: uppercase;
+    font-family: "Rubik Doodle Shadow", serif;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.volunteer-right p{
+    font-size: 25px;
+    margin: 0% 0% 10% 0%;
+}
+
+#call{
+    text-align: center;
+}
+
+.details{
+    float: left;
+    width: 100%;
+    background-color: rgba(41, 39, 39, 0.81);
+    padding: 3% 0% 3% 0%;
+}
+
+.sub-details{
+    float: left;
+    width: 20%;
+    border: 3px solid aliceblue;
+    color: aliceblue;
+    margin: 0% 0% 0% 10%;
+    height: 250px;
+    text-align: center;
+}
+
+.sub-details h1{
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+.sub-details p{
+    font-size: 20px;
+    text-align: start;
+    margin: 0% 0% 0% 10%;
+}
+
+.sub-details input, .sub-details select{
+    float: left;
+    width: 85%;
+    background-color: transparent;
+    border: 1px solid aliceblue;
+    font-size: 22px;
+    color: aliceblue;
+    margin: 5% 0% 0% 5%;
+}
+
+.sub-details option{
+    background-color: black;
+}
+
+.sub-details button{
+    float: left;
+    width: 50%;
+    font-size: 22px;
+    margin: 5% 0% 0% 5%;
+
+}
+
+.crud-div{
+    float: left;
+    width: 40%;
+    border: 4px solid black;
+    margin: 10% 0% 0% 30%;
+}
+
+.crud-div a{
+    float: left;
+    width: 40%;
+    border: 3px solid black;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    margin: 2% 0% 2% 6%;
+}
+
+.footer-div{
+    float: left;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
+
+.register-div, .update-div, .delete-div{
+    float: left;
+    width: 40%;
+    margin: 3% 0% 0% 30%;
+}
+
+.register-div input, .register-div button, .update-div input, .update-div button, .update-div select, .delete-div input, .delete-div button{
+    float: left;
+    width: 90%;
+    font-size: 25px;
+    border: 2px solid black;
+    margin: 3% 0% 0% 5%;
+
+}
+
+.tour-div{
+    float: left;
+    width: 75%;
+    /* border: 4px solid black; */
+    height: 600px;
+    text-align: center;
+    font-size: 30px;
+    margin: 3% 0% 5% 13%;
+    box-shadow: 10px 10px 90px black;
+}
+
+.tour-div iframe{
+    float: left;
+    width: 98.5%;
+    height: 400px;
+    border: 8px solid black;
+}
